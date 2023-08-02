@@ -1,0 +1,16 @@
+dependencies:
+  LED_class:
+    component_hash: 44811e866f28f6f69f127fa3654729c06fa907915f89ab9765c5a7184aa901ce
+    source:
+      git: https://github.com/PiyatidaPh/spc-hw2.git
+      path: components/LED
+      type: git
+    version: 13186aaab10d7d386eeb3c46b6d43ecc2a91773a
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.0
+manifest_hash: 48648e4b457d854ccc1fee3f40214efa59339d2b867be2f97c39846d3590bf63
+target: esp32
+version: 1.0.0
